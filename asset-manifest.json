@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/adheebshafik/static/css/main.abdb1d78.css",
-    "main.js": "/adheebshafik/static/js/main.0d479008.js",
-    "static/js/453.c71a4e89.chunk.js": "/adheebshafik/static/js/453.c71a4e89.chunk.js",
+    "main.css": "/adheebshafik/static/css/main.171a3a9a.css",
+    "main.js": "/adheebshafik/static/js/main.42a5921d.js",
+    "static/js/787.106db3e6.chunk.js": "/adheebshafik/static/js/787.106db3e6.chunk.js",
     "static/media/Roboto-Medium.ttf": "/adheebshafik/static/media/Roboto-Medium.7429a63c09f79a1760b0.ttf",
     "static/media/Roboto-Regular.ttf": "/adheebshafik/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
     "static/media/Roboto-Black.ttf": "/adheebshafik/static/media/Roboto-Black.2a4285847db4a9acb97f.ttf",
@@ -37,12 +37,12 @@
     "static/media/firebase.svg": "/adheebshafik/static/media/firebase.5f768b5f1e4ff77e240c111bfd7e0036.svg",
     "static/media/flutter.svg": "/adheebshafik/static/media/flutter.f931ae60f12bcb2c8b4fc11abacea829.svg",
     "static/media/css3.svg": "/adheebshafik/static/media/css3.61c66f195bfb035f026b494664fd7c66.svg",
-    "main.abdb1d78.css.map": "/adheebshafik/static/css/main.abdb1d78.css.map",
-    "main.0d479008.js.map": "/adheebshafik/static/js/main.0d479008.js.map",
-    "453.c71a4e89.chunk.js.map": "/adheebshafik/static/js/453.c71a4e89.chunk.js.map"
+    "main.171a3a9a.css.map": "/adheebshafik/static/css/main.171a3a9a.css.map",
+    "main.42a5921d.js.map": "/adheebshafik/static/js/main.42a5921d.js.map",
+    "787.106db3e6.chunk.js.map": "/adheebshafik/static/js/787.106db3e6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abdb1d78.css",
-    "static/js/main.0d479008.js"
+    "static/css/main.171a3a9a.css",
+    "static/js/main.42a5921d.js"
   ]
 }
