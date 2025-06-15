@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/adheebshafik/static/css/main.171a3a9a.css",
-    "main.js": "/adheebshafik/static/js/main.42a5921d.js",
+    "main.js": "/adheebshafik/static/js/main.c25fe2f4.js",
     "static/js/787.106db3e6.chunk.js": "/adheebshafik/static/js/787.106db3e6.chunk.js",
     "static/media/Roboto-Medium.ttf": "/adheebshafik/static/media/Roboto-Medium.7429a63c09f79a1760b0.ttf",
     "static/media/Roboto-Regular.ttf": "/adheebshafik/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
     "static/media/Roboto-Black.ttf": "/adheebshafik/static/media/Roboto-Black.2a4285847db4a9acb97f.ttf",
     "static/media/Roboto-Bold.ttf": "/adheebshafik/static/media/Roboto-Bold.75371f53f06181df75f1.ttf",
     "static/media/Roboto-Light.ttf": "/adheebshafik/static/media/Roboto-Light.8be2d1487420548b3b8d.ttf",
+    "static/media/doc.pdf": "/adheebshafik/static/media/doc.e3b486cbd0ff45c2fb35.pdf",
     "static/media/capa1.jpeg": "/adheebshafik/static/media/capa1.13ba0237d7a4d74d0690.jpeg",
     "static/media/cardBG.webp": "/adheebshafik/static/media/cardBG.18f0002fe57f15b4d602.webp",
     "static/media/SonsieOne-Regular.ttf": "/adheebshafik/static/media/SonsieOne-Regular.acf4eec862e20f308ec3.ttf",
@@ -27,7 +28,6 @@
     "index.html": "/adheebshafik/index.html",
     "static/media/nodejs.svg": "/adheebshafik/static/media/nodejs.eaa4ddba4f5e67aed02f70a7c6e523f1.svg",
     "static/media/linkedin.svg": "/adheebshafik/static/media/linkedin.14f38c07d38be5bddee02d700bf0fc2d.svg",
-    "static/media/facebook.svg": "/adheebshafik/static/media/facebook.f51db061afd1b76fff7ddfd786e4e06c.svg",
     "static/media/ang.svg": "/adheebshafik/static/media/ang.23d2dfc0a69cb62642658ba7bca7fda3.svg",
     "static/media/javascript.svg": "/adheebshafik/static/media/javascript.00c961b09f06546ea900c95aeae635a6.svg",
     "static/media/bootstrap.svg": "/adheebshafik/static/media/bootstrap.9924639d5eeb450065bee7b0ad3eb081.svg",
@@ -38,11 +38,11 @@
     "static/media/flutter.svg": "/adheebshafik/static/media/flutter.f931ae60f12bcb2c8b4fc11abacea829.svg",
     "static/media/css3.svg": "/adheebshafik/static/media/css3.61c66f195bfb035f026b494664fd7c66.svg",
     "main.171a3a9a.css.map": "/adheebshafik/static/css/main.171a3a9a.css.map",
-    "main.42a5921d.js.map": "/adheebshafik/static/js/main.42a5921d.js.map",
+    "main.c25fe2f4.js.map": "/adheebshafik/static/js/main.c25fe2f4.js.map",
     "787.106db3e6.chunk.js.map": "/adheebshafik/static/js/787.106db3e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.171a3a9a.css",
-    "static/js/main.42a5921d.js"
+    "static/js/main.c25fe2f4.js"
   ]
 }
